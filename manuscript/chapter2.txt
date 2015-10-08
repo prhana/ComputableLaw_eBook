@@ -1,8 +1,0 @@
-# Chapter 2
-
-It was a **bold** and *italic* night!
-
-Suddenly, a shot rang out!
-
-This is the second chapter of this book!
-Making some changes. 
